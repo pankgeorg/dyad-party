@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","properties":{".":{"properties":{},"required":[],"type":"object"}},"x-dyad-entity":"urn:analysis:simcontrolleddivider2","description":"simcontrolleddivider2 (stub schema)","type":"object"}
